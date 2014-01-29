@@ -1,0 +1,1 @@
+fb loaded from template : {$truc}
